@@ -8,9 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/5MlV4tJzWdY4m6UgmT/giphy.gif?cid=ecf05e475euj5ga1xh4c5p6vqorx9zqcftgy10tpsa268flc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
